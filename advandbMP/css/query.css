@@ -1,0 +1,19 @@
+html, body{
+  background: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#result table{
+  width: 100%;
+}
+
+#result tr:nth-child(even){
+  background: #d32323;
+  color: #fff;
+}
+
+#result td, th{
+  padding: 10px;
+}
